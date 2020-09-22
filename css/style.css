@@ -1,0 +1,98 @@
+body {
+    max-width: 100%;
+}
+
+.navbar {
+    background-color: rgb(15, 14, 14);
+}
+
+#navbarSupportedContent {
+    color: white;
+    padding-left: 20%;
+}
+
+#navtitle ­­ {
+    color: white;
+    align-content: center;
+    text-align: center;
+    text-align: justify;
+}
+
+#textnav {
+    padding-left: 20%;
+    align-content: center;
+}
+
+#big {
+    max-width: 100%;
+    padding-top: 71px;
+}
+
+#premiere {
+    padding-bottom: 100px;
+    padding-top: 20px;
+}
+
+#deuxieme {
+    padding-bottom: 10px;
+}
+
+#troisieme {
+    padding-top: 10px;
+}
+
+#plusplus {
+    padding-bottom: 0px;
+}
+
+h2 {
+    color: rgb(179, 6, 6);
+    font-family: 'Satisfy', cursive;
+}
+
+h5 {
+    padding-top: 25px;
+}
+
+.iconeserv {
+    color: rgb(179, 6, 6);
+    margin-top: 5px;
+}
+
+#nom {
+    padding-top: 100px;
+}
+
+#insta {
+    width: 100%;
+}
+
+#vin {
+    padding-top: 30px;
+}
+
+#dessert {
+    padding-top: 30px;
+}
+
+#foott {
+    color: white;
+    background-color: rgb(15, 14, 14);
+    max-width: 100%;
+}
+
+#signefoot {
+    max-width: 100%;
+}
+
+#tiretred {
+    margin-top: -20px;
+}
+
+#house {
+    background-clip: content-box;
+}
+
+#fraich {
+    background-clip: content-box;
+}
